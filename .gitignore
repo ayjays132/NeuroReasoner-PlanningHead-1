@@ -1,6 +1,5 @@
-# Large model files (download from HuggingFace Hub instead)
-model.safetensors
-*.safetensors
+# Large model files are tracked with Git LFS
+# *.safetensors files are handled by Git LFS (see .gitattributes)
 
 # Python cache
 __pycache__/
