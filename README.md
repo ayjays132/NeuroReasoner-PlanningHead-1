@@ -51,24 +51,6 @@ model.set_tokenizer(tokenizer)
 model.eval()
 ```
 
-### Load from HuggingFace Hub
-
-Alternatively, load directly from HuggingFace Hub (model weights are stored there):
-
-```python
-from transformers import AutoModel, AutoTokenizer
-
-# Load model directly from HuggingFace Hub
-model = AutoModel.from_pretrained(
-    "ayjays132/NeuroReasoner-PlanningHead-1",
-    trust_remote_code=True
-)
-
-tokenizer = AutoTokenizer.from_pretrained("ayjays132/NeuroReasoner-PlanningHead-1")
-model.set_tokenizer(tokenizer)
-model.eval()
-```
-
 ## 📝 Usage Examples
 
 ### Example 1: Complex Strategic Planning
