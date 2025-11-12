@@ -1,7 +1,6 @@
 # NeuroReasoner-PlanningHead-1
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ayjays132/NeuroReasoner-PlanningHead-1)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Model-blue)](https://huggingface.co/ayjays132/NeuroReasoner-PlanningHead-1)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **A Revolutionary Planning-Enhanced Model with Unified Synergistic Architecture**
