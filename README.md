@@ -399,7 +399,6 @@ Apache 2.0
 
 For questions, issues, or contributions:
 - Open an issue on [GitHub](https://github.com/ayjays132/NeuroReasoner-PlanningHead-1/issues)
-- Check the [HuggingFace model card](https://huggingface.co/ayjays132/NeuroReasoner-PlanningHead-1)
 
 ---
 
